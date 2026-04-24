@@ -5,12 +5,11 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=CIT+Student+%7C+Builder+%7C+Systems+Thinker;Mobile+%E2%86%92+Backend+%E2%86%92+Blockchain+%7C+All+Domains+Consumed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=IT+Major+%7C+Builder+%7C+Systems+Thinker;Mobile+%E2%86%92+Backend+%E2%86%92+Blockchain+%7C+All+Domains+Consumed" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-kevinme425-1a1a2e?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0f0f23)](https://github.com/kevinme425)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kevinme425.kevinme425&style=for-the-badge&color=7c3aed)
 
@@ -20,12 +19,11 @@
 
 <div align="center">
 
-<!-- About Section -->
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║              > SYSTEM PROFILE: KEVIN MORE2KU             ║
 ║  ┌─────────────────────────────────────────────────────┐ ║
-║  │  Role     : CIT Student · Builder · Web3 Explorer   │ ║
+║  │  Role     : IT Major · Builder · Web3 Explorer      │ ║
 ║  │  OS       : 🐧 Fedora Workstation 43                │ ║
 ║  │  Hardware : AMD Ryzen · 12 Threads · KVM Enabled    │ ║
 ║  │  Status   : Always Building                         │ ║
@@ -39,11 +37,6 @@
 ---
 
 ## ⟨ TECH STACK ⟩
-
-<!-- 
-  GLASSMORPHISM TECH STACK BADGES
-  Rendered via shields.io with custom colors that evoke glass/frost panels
--->
 
 <div align="center">
 
@@ -117,11 +110,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinme425&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0f23&title_color=c084fc&icon_color=7c3aed&text_color=e2e8f0"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinme425&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=c084fc&text_color=e2e8f0"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kevinme425&theme=tokyonight&hide_border=true&background=0f0f23&ring=c084fc&fire=7c3aed&currStreakLabel=c084fc)](https://git.io/streak-stats)
+
+<br/>
+
+[![Kevin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevinme425&bg_color=0f0f23&color=c084fc&line=7c3aed&point=a855f7&area=true&area_color=1a0533&hide_border=true&custom_title=activity+graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
