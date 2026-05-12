@@ -1,149 +1,346 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f23,50:1a0533,100:0f0f23&height=200&section=header&text=KEVIN%20MORE2KU&fontSize=60&fontColor=c084fc&animation=fadeIn&fontAlignY=55&desc=DEVOUR%20TO%20EVOLVE%20BY%20ISAGI&descSize=16&descAlignY=75&descColor=7c3aed" />
+<!-- Cyberpunk Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,50:7b2fff,100:ff00c8&height=200&section=header&text=Kevin+MORE2KU&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=blockchain%20%7C%20web3%20%7C%20android%20%7C%20backend&descAlignY=60&descSize=18"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=IT+Major+%7C+Builder+%7C+Systems+Thinker;Mobile+%E2%86%92+Backend+%E2%86%92+Blockchain+%7C+All+Domains+Consumed" alt="Typing SVG" />
+<!-- Typing animation -->
+<a href="https://github.com/kevinme425">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=700&lines=0x_KEVIN+MORE2KU+%3A%3A+SYSTEM+ONLINE;%E2%9A%A1+DEVOUR+TO+EVOLVE+%E2%80%94+ISAGI;Move+Smart+Contract+Engineer;Web3+%7C+Blockchain+%7C+DeFi+Builder;Android+%7C+Django+%7C+Full+Stack;Aptos+%26+Sui+Chain+Developer;CIT+Student+%7C+Future+Tech+Architect" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-kevinme425-1a1a2e?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0f0f23)](https://github.com/kevinme425)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kevinme425.kevinme425&style=for-the-badge&color=7c3aed)
+[![GitHub](https://img.shields.io/badge/GitHub-kevinme425-181717?style=for-the-badge&logo=github&logoColor=00fff7&labelColor=0d0d0d)](https://github.com/kevinme425)
+[![Blockchain](https://img.shields.io/badge/Blockchain-Move%20%7C%20Solidity-7b2fff?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d0d0d)](https://github.com/kevinme425)
+[![OS](https://img.shields.io/badge/OS-Fedora%2043-294172?style=for-the-badge&logo=fedora&logoColor=00fff7&labelColor=0d0d0d)](https://fedoraproject.org)
 
 </div>
 
 ---
-
-<div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║              > SYSTEM PROFILE: KEVIN MORE2KU             ║
-║  ┌─────────────────────────────────────────────────────┐ ║
-║  │  Role     : IT Major · Builder · Web3 Explorer      │ ║
-║  │  OS       : 🐧 Fedora Workstation 43                │ ║
-║  │  Hardware : AMD Ryzen · 12 Threads · KVM Enabled    │ ║
-║  │  Status   : Always Building                         │ ║
-║  │  Protocol : DEVOUR TO EVOLVE                        │ ║
-║  └─────────────────────────────────────────────────────┘ ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  SUBJECT   : KEVIN MORE2KU // kevinme425                        ║
+║  CLEARANCE : BLOCKCHAIN ENGINEER // WEB3 ARCHITECT              ║
+║  NODE      : NAIROBI, KENYA  //  FEDORA OS 43                   ║
+║  QUOTE     : "DEVOUR TO EVOLVE" — ISAGI  ⚽🔥                   ║
+║  STATUS    : BUILDING THE DECENTRALIZED FUTURE ◈ ONLINE         ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
----
-
-## ⟨ TECH STACK ⟩
-
 <div align="center">
 
-### ◈ Languages
-
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1a0533)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a0533)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=1a0533)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=1a0533)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white&labelColor=1a0533)
-![Move](https://img.shields.io/badge/Move-5E3AEE?style=for-the-badge&logo=aptos&logoColor=white&labelColor=1a0533)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=1a0533)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a0533)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a0533)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a0533)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white&labelColor=1a0533)
-
----
-
-### ◈ Frameworks & Platforms
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=1a0533)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a0533)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=1a0533)
-![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=1a0533)
-
----
-
-### ◈ Blockchain / Web3
-
-![Aptos](https://img.shields.io/badge/Aptos-2C3E7B?style=for-the-badge&logo=aptos&logoColor=white&labelColor=1a0533)
-![Sui](https://img.shields.io/badge/Sui-4CA2FF?style=for-the-badge&logo=sui&logoColor=white&labelColor=1a0533)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=1a0533)
-
----
-
-### ◈ Tools & Environment
-
-![Fedora](https://img.shields.io/badge/Fedora_43-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=1a0533)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=1a0533)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a0533)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a0533)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0533)
-![KVM](https://img.shields.io/badge/KVM_Virtualization-FF6600?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a0533)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white&labelColor=1a0533)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&labelColor=1a0533)
+> # ⚡ *"DEVOUR TO EVOLVE"* ⚡
+> ### *— Yoichi Isagi, Blue Lock*
+> *To grow, you must consume everything around you — devour knowledge, devour challenges, devour failure itself. Evolve or be devoured.*
 
 </div>
 
 ---
 
-## ⟨ FEATURED PROJECTS ⟩
-
 <div align="center">
 
-| ◈ | Project | Stack | Status |
-|:-:|:--------|:------|:------:|
-| 🤖 | **[AI Waste Recognition App — EcoSort AI](https://github.com/kevinme425)** | MIT App Inventor · Python Backend | `ACTIVE` |
-| 📡 | **[DAMS2 — Device & Asset Management System](https://github.com/kevinme425)** | React Native · TCP/UDP · Kotlin | `BUILDING` |
-| 🔐 | **[Secure Exam System](https://github.com/kevinme425)** | Django · PostgreSQL · JWT · Vanilla JS | `BUILDING` |
-| ⛓️ | **[Move Smart Contracts — Sui & Aptos](https://github.com/kevinme425)** | Move · Aptos · Sui | `EXPLORING` |
+## 📊 GITHUB ACTIVITY // LIVE FEED
 
-</div>
-
----
-
-## ⟨ GITHUB STATS ⟩
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinme425&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0f23&title_color=c084fc&icon_color=7c3aed&text_color=e2e8f0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinme425&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=c084fc&text_color=e2e8f0"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kevinme425&bg_color=0d0d0d&color=00fff7&line=7b2fff&point=ff00c8&area=true&area_color=7b2fff&hide_border=false&border_color=00fff722&title_color=00fff7&custom_title=Kevin%20MORE2KU%20%7C%20Contribution%20Activity%20Graph"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kevinme425&theme=tokyonight&hide_border=true&background=0f0f23&ring=c084fc&fire=7c3aed&currStreakLabel=c084fc)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinme425&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00fff7&title_color=00fff7&icon_color=7b2fff&text_color=ffffff&bg_color=0d0d0d&custom_title=Kevin+MORE2KU+%7C+GitHub+Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinme425&layout=compact&langs_count=10&theme=tokyonight&border_color=00fff7&title_color=00fff7&text_color=ffffff&bg_color=0d0d0d&custom_title=Languages+Used"/>
 
-<br/>
-
-[![Kevin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevinme425&bg_color=0f0f23&color=c084fc&line=7c3aed&point=a855f7&area=true&area_color=1a0533&hide_border=true&custom_title=activity+graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinme425&theme=tokyonight&border=00fff7&ring=7b2fff&fire=ff00c8&currStreakLabel=00fff7&background=0d0d0d&sideLabels=ffffff" />
 
 </div>
 
 ---
 
-## ⟨ CURRENTLY ⟩
+<div align="center">
 
-```bash
-$ cat /proc/kevin/status
+## ⛓️ BLOCKCHAIN & WEB3 CORE ⛓️
 
-  [▓▓▓▓▓▓▓░░░░░░░] EcoSort AI — Backend + AI Classification
-  [▓▓▓▓▓░░░░░░░░░] Networking — Protocols & Infrastructure
-  [▓▓▓▓▓▓░░░░░░░░] System Design — Architecture & Scalability
-  [▓▓▓▓▓▓▓▓░░░░░░] DBMS & Data Modeling
-  [▓▓▓▓▓▓▓▓▓▓▓░░░] Web3 — Move / Solidity Skill Tree
+</div>
 
-  OS    : Fedora Workstation 43
-  CPU   : AMD Ryzen · 12 Threads · SVM Enabled
-  Goal  : Devour Every Domain. Evolve Without Ceiling.
+> *"In a decentralized world, code is law — and I write the law."*
+
+I architect smart contracts on **Aptos** and **Sui** blockchains using the **Move** programming language — one of the most secure, resource-oriented languages in Web3. My blockchain work spans DeFi protocols, token contracts, and on-chain logic that prioritizes security and formal verification over shortcuts.
+
+---
+
+### 🔷 MOVE SMART CONTRACTS // APTOS & SUI
+
+```move
+// Kevin MORE2KU :: Move Smart Contract Prototype
+// Deployed on Aptos Testnet — kevinme425
+
+module 0x1::more2ku_protocol {
+    use std::signer;
+    use aptos_framework::coin;
+
+    struct Vault<phantom CoinType> has key {
+        balance: coin::Coin<CoinType>,
+        owner: address,
+    }
+
+    public entry fun deposit<CoinType>(
+        owner: &signer,
+        amount: u64,
+    ) acquires Vault {
+        let coins = coin::withdraw<CoinType>(owner, amount);
+        let vault = borrow_global_mut<Vault<CoinType>>(signer::address_of(owner));
+        coin::merge(&mut vault.balance, coins);
+        // DEVOUR TO EVOLVE — MORE2KU 🔥
+    }
+}
+```
+
+| Chain | Language | Status | Focus |
+|-------|----------|--------|-------|
+| **Aptos** | Move | 🟢 Active | Resource-oriented contracts |
+| **Sui** | Move | 🟢 Active | Object-model architecture |
+| **Ethereum (Learning)** | Solidity | 🟡 Building | DeFi / ERC standards |
+
+---
+
+### 🌐 WEB3 SKILL MATRIX
+
+<div align="center">
+
+| Tier | Skill | Level |
+|------|-------|-------|
+| 🔥 **Expert** | Move (Aptos/Sui) | `████████░░` Advanced |
+| 🔥 **Expert** | Smart Contract Architecture | `████████░░` Advanced |
+| ⚡ **Strong** | Blockchain Security Concepts | `███████░░░` Proficient |
+| ⚡ **Strong** | DeFi Protocol Design | `███████░░░` Proficient |
+| 🛠 **Building** | Solidity / EVM | `█████░░░░░` Intermediate |
+| 🛠 **Building** | Web3.js / Ethers.js | `█████░░░░░` Intermediate |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🗂️ PROJECTS // DOSSIER
+
+</div>
+
+---
+
+### 🔗 `[01]` MOVE SMART CONTRACTS — Aptos & Sui
+
+> **Type:** Blockchain / DeFi | **Chain:** Aptos & Sui | **Language:** Move
+
+Resource-oriented smart contracts eliminating reentrancy, integer overflow, and resource duplication exploits through Move's ownership and type system.
+
+```
+STACK: Move · Aptos Framework · Sui Move · Blockchain Security
+```
+
+---
+
+### 📱 `[02]` ECOSORT AI — Waste Classification Android App
+
+> **Type:** Android App + AI Backend | **Language:** MIT App Inventor + Python | **Status:** Active
+
+Camera → JSON payload → Python AI inference backend → dynamic response parsing in real-time.
+
+```
+STACK: MIT App Inventor · Python · JSON API · Android · Computer Vision · KVM/AMD-V
+```
+
+---
+
+### 📊 `[03]` DAMS2 — React Native Android App
+
+> **Type:** Mobile / Networking | **Language:** React Native + Kotlin + Java | **Status:** Built
+
+TCP/UDP socket networking across a full native build pipeline with Gradle, Kotlin conflict resolution, and Aliyun mirror setup.
+
+```
+STACK: React Native · Kotlin · Java · TCP/UDP Sockets · Gradle · JS Bundling
+```
+
+---
+
+### 🔐 `[04]` SECURE EXAM SYSTEM — Django Web App
+
+> **Type:** Backend / Security | **Language:** Python / Django | **Status:** Production-ready
+
+Per-school JWT-secured file delivery, RBAC, PostgreSQL relational schema, hashed credentials.
+
+```
+STACK: Django · PostgreSQL · JWT · Python · REST API · Hashing & Salting
+```
+
+---
+
+### 🤖 `[05]` RAG SYSTEM — AI / ML Engineering
+
+> **Type:** AI Engineering | **Technology:** Retrieval-Augmented Generation | **Status:** Exploring
+
+Vector databases + LLM inference = AI systems that reason over custom knowledge bases.
+
+```
+STACK: Python · Vector DB · LLM API · RAG Architecture
 ```
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,100:0f0f23&height=100&section=footer&text=DEVOUR+TO+EVOLVE&fontSize=20&fontColor=c084fc&animation=twinkling&fontAlignY=65" />
+## 💻 FULL TECH ARSENAL // FROM ALL SESSIONS
 
-*"The one who devours everything becomes everything."*
+### ⛓️ Blockchain & Web3
+![Move](https://img.shields.io/badge/Move-7b2fff?style=for-the-badge&logoColor=white)
+![Aptos](https://img.shields.io/badge/Aptos-00fff7?style=for-the-badge&logoColor=black)
+![Sui](https://img.shields.io/badge/Sui-4ca2ff?style=for-the-badge&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-ff00c8?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi_Protocols-00fff7?style=for-the-badge&logoColor=black)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-7b2fff?style=for-the-badge&logoColor=white)
+
+### 📱 Mobile & Frontend
+![Kotlin](https://img.shields.io/badge/Kotlin-7b2fff?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-00fff7?style=for-the-badge&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![XML](https://img.shields.io/badge/XML-ff00c8?style=for-the-badge&logoColor=white)
+
+### 🐍 Backend & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00fff7?style=for-the-badge&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_APIs-ff00c8?style=for-the-badge&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00fff7)
+![JSON](https://img.shields.io/badge/JSON-7b2fff?style=for-the-badge&logoColor=white)
+
+### 🤖 AI / ML Engineering
+![RAG](https://img.shields.io/badge/RAG_Systems-00fff7?style=for-the-badge&logoColor=black)
+![LLM](https://img.shields.io/badge/LLM_APIs-7b2fff?style=for-the-badge&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-ff00c8?style=for-the-badge&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-4ca2ff?style=for-the-badge&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Fedora](https://img.shields.io/badge/Fedora_43-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logoColor=white)
+![Flatpak](https://img.shields.io/badge/Flatpak-4A90D9?style=for-the-badge&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM_%2F_AMD--V-ff00c8?style=for-the-badge&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SELinux](https://img.shields.io/badge/SELinux-cc0000?style=for-the-badge&logoColor=white)
+
+### 🎓 Computer Science // CIT Coursework
+![Computer Architecture](https://img.shields.io/badge/CIT_3150-Computer_Architecture-00fff7?style=for-the-badge&logoColor=black)
+![Two's Complement](https://img.shields.io/badge/Binary_%26_Two's_Complement-7b2fff?style=for-the-badge&logoColor=white)
+![CPU Pipeline](https://img.shields.io/badge/Fetch--Decode--Execute_Cycle-ff00c8?style=for-the-badge&logoColor=white)
+![Calculus 2](https://img.shields.io/badge/Calculus_II-4ca2ff?style=for-the-badge&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS_%26_ER_Modeling-00fff7?style=for-the-badge&logoColor=black)
+![I/O Systems](https://img.shields.io/badge/I%2FO_Systems_(OMR_%26_OCR)-7b2fff?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📡 WEB3 ROADMAP // NEXT MISSIONS
+
+</div>
+
+```
+[PHASE 1] ████████░░  Move Contracts — Aptos & Sui    ✅ COMPLETE
+[PHASE 2] ██████░░░░  Solidity / EVM Development      🟡 IN PROGRESS  
+[PHASE 3] █████░░░░░  DeFi Protocol Engineering        🟡 BUILDING
+[PHASE 4] ████░░░░░░  Smart Contract Security Audits   📋 QUEUED
+[PHASE 5] ███░░░░░░░  ZK Proofs & Layer 2 Scaling     📋 QUEUED
+[PHASE 6] ██░░░░░░░░  Cross-Chain Bridge Architecture  📋 QUEUED
+[PHASE 7] █░░░░░░░░░  Full Protocol Launch             🎯 ENDGAME
+```
+
+---
+
+<div align="center">
+
+## 🎯 CURRENTLY // SYSTEM STATE
+
+</div>
+
+```python
+class KevinMORE2KU:
+    def __init__(self):
+        self.name         = "Kevin MORE2KU"
+        self.handle       = "kevinme425"
+        self.location     = "Nairobi, Kenya 🇰🇪"
+        self.os           = "Fedora Workstation 43"
+        self.cpu          = "AMD Ryzen — 12 threads, AMD-V enabled"
+        self.quote        = "DEVOUR TO EVOLVE — Isagi 🔥"
+
+        self.blockchain   = ["Move (Aptos)", "Move (Sui)", "Solidity (Learning)"]
+        self.languages    = ["Move", "Python", "Kotlin", "Java", "JavaScript",
+                             "SQL", "Bash", "HTML5", "CSS3", "XML", "YAML", "Solidity"]
+        self.mobile       = ["Android/Kotlin", "React Native", "MIT App Inventor"]
+        self.backend      = ["Django", "PostgreSQL", "REST APIs", "JWT", "JSON"]
+        self.ai_ml        = ["RAG Systems", "Computer Vision", "LLM APIs", "Vector DB"]
+        self.tools        = ["Android Studio", "VS Code", "Git", "GitHub",
+                             "Gradle", "Flatpak", "KVM/AMD-V", "npm", "pip", "SELinux"]
+        self.cs_core      = ["CIT 3150: Computer Architecture",
+                             "Calculus II (u-sub, trig integrals, partial fractions)",
+                             "Binary Arithmetic & Two's Complement",
+                             "Fetch-Decode-Execute Pipeline",
+                             "DBMS, ER Modeling, Hashing & Salting",
+                             "I/O Systems: OMR & OCR"]
+
+        self.currently_building = [
+            "Move smart contracts for DeFi (Aptos + Sui)",
+            "Ecosort AI — waste classification Android app",
+            "Secure Exam System — Django + PostgreSQL backend",
+            "Solidity / EVM skills — entering the ETH ecosystem",
+        ]
+
+    def philosophy(self):
+        return "DEVOUR TO EVOLVE. Code is law. Security is non-negotiable."
+
+    def status(self):
+        return "🟢 ONLINE — Shipping blockchain contracts & Android apps from Nairobi 🇰🇪"
+
+dev = KevinMORE2KU()
+print(dev.quote)
+# >>> DEVOUR TO EVOLVE — Isagi 🔥
+print(dev.status())
+# >>> 🟢 ONLINE — Shipping blockchain contracts & Android apps from Nairobi 🇰🇪
+```
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║       ⚡  " D E V O U R   T O   E V O L V E "  ⚡              ║
+║                    — Yoichi Isagi, Blue Lock                     ║
+║                                                                  ║
+║          To grow, devour everything. Evolve or be devoured.      ║
+║                                                                  ║
+║              Built by  →  Kevin MORE2KU                         ║
+║              GitHub    →  kevinme425                            ║
+║              Node      →  Nairobi, Kenya 🇰🇪                    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,50:7b2fff,100:00fff7&height=120&section=footer"/>
 
 </div>
