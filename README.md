@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/kevinme425">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=700&lines=0x_KEVIN+MORE2KU+%3A%3A+SYSTEM+ONLINE;%E2%9A%A1+DEVOUR+TO+EVOLVE+%E2%80%94+ISAGI;Move+Smart+Contract+Engineer;Web3+%7C+Blockchain+%7C+DeFi+Builder;Android+%7C+Django+%7C+Full+Stack;Aptos+%26+Sui+Chain+Developer;CIT+Student+%7C+Future+Tech+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=700&lines=0x_KEVIN+MORE2KU+%3A%3A+SYSTEM+ONLINE;%E2%9A%A1+DEVOUR+TO+EVOLVE+%E2%80%94+ISAGI;Move+Smart+Contract+Engineer;Web3+%7C+Blockchain+%7C+DeFi+Builder;Android+%7C+Django+%7C+Full+Stack;Aptos+%26+Sui+Chain+Developer;On-Chain.+Always+Building.+Never+Stopping." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -240,13 +240,14 @@ STACK: Python · Vector DB · LLM API · RAG Architecture
 ![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SELinux](https://img.shields.io/badge/SELinux-cc0000?style=for-the-badge&logoColor=white)
 
-### 🎓 Computer Science // CIT Coursework
-![Computer Architecture](https://img.shields.io/badge/CIT_3150-Computer_Architecture-00fff7?style=for-the-badge&logoColor=black)
-![Two's Complement](https://img.shields.io/badge/Binary_%26_Two's_Complement-7b2fff?style=for-the-badge&logoColor=white)
-![CPU Pipeline](https://img.shields.io/badge/Fetch--Decode--Execute_Cycle-ff00c8?style=for-the-badge&logoColor=white)
-![Calculus 2](https://img.shields.io/badge/Calculus_II-4ca2ff?style=for-the-badge&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS_%26_ER_Modeling-00fff7?style=for-the-badge&logoColor=black)
-![I/O Systems](https://img.shields.io/badge/I%2FO_Systems_(OMR_%26_OCR)-7b2fff?style=for-the-badge&logoColor=white)
+### 🔐 Web3 & Systems Knowledge
+![Resource Safety](https://img.shields.io/badge/Resource_Safety-Move_Ownership-00fff7?style=for-the-badge&logoColor=black)
+![Consensus](https://img.shields.io/badge/Consensus_Mechanisms-PoS_%26_BFT-7b2fff?style=for-the-badge&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-Hashing_%26_Signing-ff00c8?style=for-the-badge&logoColor=white)
+![Tokenomics](https://img.shields.io/badge/Tokenomics_%26_DeFi_Design-4ca2ff?style=for-the-badge&logoColor=white)
+![DBMS](https://img.shields.io/badge/On--Chain_Data_Modeling-00fff7?style=for-the-badge&logoColor=black)
+![Security](https://img.shields.io/badge/Smart_Contract_Security-7b2fff?style=for-the-badge&logoColor=white)
+![Low Level](https://img.shields.io/badge/Low_Level_Systems-CPU_%26_Memory-ff00c8?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -294,12 +295,9 @@ class KevinMORE2KU:
         self.ai_ml        = ["RAG Systems", "Computer Vision", "LLM APIs", "Vector DB"]
         self.tools        = ["Android Studio", "VS Code", "Git", "GitHub",
                              "Gradle", "Flatpak", "KVM/AMD-V", "npm", "pip", "SELinux"]
-        self.cs_core      = ["CIT 3150: Computer Architecture",
-                             "Calculus II (u-sub, trig integrals, partial fractions)",
-                             "Binary Arithmetic & Two's Complement",
-                             "Fetch-Decode-Execute Pipeline",
-                             "DBMS, ER Modeling, Hashing & Salting",
-                             "I/O Systems: OMR & OCR"]
+        self.web3_knowledge = ["Move Resource Safety", "Consensus Mechanisms (PoS/BFT)",
+                               "Cryptographic Signing & Hashing", "Tokenomics & DeFi Design",
+                               "Smart Contract Security", "On-Chain Data Modeling"]
 
         self.currently_building = [
             "Move smart contracts for DeFi (Aptos + Sui)",
