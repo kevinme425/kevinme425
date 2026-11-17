@@ -44,7 +44,7 @@ Currently focused on **Rust and Solana development**, while exploring smart cont
 </tr>
 <tr>
 <td width="50%">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinme425&hide_border=true&background=0D1117&ring=9F7AEA&fire=00C9B7&currStreakLabel=00C9B7&sideLabels=C9D1D9&dates=8B949E" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinme425&hide_border=true&background=0D1117&ring=9F7AEA&fire=00C9B7&currStreakLabel=00C9B7&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
 </td>
 <td width="50%">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevinme425&theme=tokyonight" />
