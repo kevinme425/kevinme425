@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,45:35206b,100:00c9b7&text=KEVIN%20%7C%20KAHU%24H&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=BLOCKCHAIN%20DEVELOPER%20%7C%20BLOCKCHAIN%20ENGINEER&descAlignY=60&descSize=15&animation=fadeIn" />
 
-### Engineering decentralized systems with Rust and Solana.
+### BLOCKCHAIN DEVELOPER  ·  BLOCKCHAIN ENGINEER\n**Rust · Solana · Web3**
 
 [![GitHub](https://img.shields.io/badge/GitHub-kevinme425-161b22?style=for-the-badge&logo=github)](https://github.com/kevinme425)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -15,17 +15,15 @@
 
 ## 👨‍💻 About
 
-I'm a **Blockchain Developer and Blockchain Engineer** focused on building decentralized applications and understanding the systems that power them.
+I'm a **Blockchain Developer & Engineer** building decentralized applications and on-chain systems.
 
-My current engineering focus is **Solana development with Rust** — writing on-chain programs, understanding account architecture, and building applications that interact with the Solana network. I’m also interested in blockchain security, protocol design, and the wider Web3 ecosystem.
+My current focus is **Solana development with Rust** — developing programs, working with Solana's account model, and integrating on-chain functionality into Web3 applications. I’m driven by secure, efficient engineering and practical solutions to real-world problems.
 
-- 🦀 **Core language:** Rust
-- ☀️ **Current ecosystem:** Solana
-- ⚓ **Program development:** Anchor and native Solana programs
-- 🔐 **Engineering interests:** smart contract security, protocol design, and decentralized infrastructure
-- 🌐 **Broader ecosystem:** Move, Sui, Aptos, and EVM technologies
+**Focus:** Rust · Solana · Anchor · Smart Contracts · Web3
 
-> I value clear architecture, secure engineering, and technology that solves real problems.
+**Interests:** Protocol architecture · Blockchain security · DeFi · Decentralized infrastructure
+
+> Build useful systems. Keep the architecture clear. Engineer for security.
 
 ## 📊 GitHub at a Glance
 
