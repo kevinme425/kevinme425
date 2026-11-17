@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./Rust.jpeg" alt="Rust programming language wallpaper" />
+<img width="100%" src="./Rust.svg" alt="Rust Web3 banner" />
 
 ### BLOCKCHAIN DEVELOPER · BLOCKCHAIN ENGINEER
 
