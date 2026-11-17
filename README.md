@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,45:35206b,100:00c9b7&text=KEVIN%20%7C%20KAHU%24H&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=BLOCKCHAIN%20DEVELOPER%20%7C%20BLOCKCHAIN%20ENGINEER&descAlignY=60&descSize=15&animation=fadeIn" />
+<img width="100%" src="./Rust.jpeg" alt="Rust programming language wallpaper" />
 
 ### BLOCKCHAIN DEVELOPER  ·  BLOCKCHAIN ENGINEER\n**Rust · Solana · Web3**
 
