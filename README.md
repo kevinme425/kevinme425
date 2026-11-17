@@ -2,9 +2,11 @@
 
 <img width="100%" src="./Rust.svg" alt="Rust Web3 banner" />
 
-### BLOCKCHAIN DEVELOPER · BLOCKCHAIN ENGINEER
+# KEVIN MORE2KU
 
-**Rust · Solana · Web3**
+### BLOCKCHAIN DEVELOPER
+
+**Rust · Solana · Move · Web3**
 
 [![GitHub](https://img.shields.io/badge/GitHub-kevinme425-161b22?style=for-the-badge&logo=github)](https://github.com/kevinme425)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -17,13 +19,13 @@
 
 ## 👨‍💻 About
 
-I'm a **Blockchain Developer & Engineer** building decentralized applications and on-chain systems.
+I'm **Kevin More2ku**, a Blockchain Developer focused on building decentralized applications and on-chain systems.
 
-My current focus is **Solana development with Rust** — developing programs, working with Solana's account model, and integrating on-chain functionality into Web3 applications. I’m driven by secure, efficient engineering and practical solutions to real-world problems.
+Currently focused on **Rust and Solana development**, while exploring smart contract engineering across the broader Web3 ecosystem.
 
-**Focus:** Rust · Solana · Anchor · Smart Contracts · Web3
+**Core focus:** Rust · Solana · Anchor · Smart Contracts
 
-**Interests:** Protocol architecture · Blockchain security · DeFi · Decentralized infrastructure
+**Exploring:** Move · Sui · Solidity · DeFi · Blockchain Security
 
 > Build useful systems. Keep the architecture clear. Engineer for security.
 
@@ -56,7 +58,7 @@ My current focus is **Solana development with Rust** — developing programs, wo
 
 </div>
 
-## ⚙️ Blockchain Engineering
+## ⚙️ Blockchain Stack
 
 <div align="center">
 
@@ -66,7 +68,7 @@ My current focus is **Solana development with Rust** — developing programs, wo
 [![Solana](https://img.shields.io/badge/Solana-Programs_%26_dApps-9945FF?style=flat-square&logo=solana&logoColor=white)](https://solana.com/)
 [![Anchor](https://img.shields.io/badge/Anchor-Framework-512DA8?style=flat-square)](https://www.anchor-lang.com/)
 
-**Exploring across Web3**
+**Exploring Web3**
 
 [![Move](https://img.shields.io/badge/Move-Smart_Contracts-4C6FFF?style=flat-square)](https://move-book.com/)
 [![Sui](https://img.shields.io/badge/Sui-Ecosystem-6FBCF0?style=flat-square&logo=sui&logoColor=white)](https://sui.io/)
@@ -90,12 +92,12 @@ My current focus is **Solana development with Rust** — developing programs, wo
 
 </div>
 
-## 🔭 What I'm Working On
+## 🔭 Current Direction
 
 - Building in the **Solana ecosystem** with Rust.
-- Developing and understanding on-chain programs and account models.
-- Exploring program security, transaction flows, PDAs, and CPIs.
-- Connecting decentralized programs to practical applications.
+- Developing on-chain programs and working with account models.
+- Learning program security, transaction flows, PDAs, and CPIs.
+- Exploring how decentralized systems solve practical problems.
 
 ## 🤝 Connect
 
