@@ -2,7 +2,9 @@
 
 <img width="100%" src="./Rust.jpeg" alt="Rust programming language wallpaper" />
 
-### BLOCKCHAIN DEVELOPER  ·  BLOCKCHAIN ENGINEER\n**Rust · Solana · Web3**
+### BLOCKCHAIN DEVELOPER · BLOCKCHAIN ENGINEER
+
+**Rust · Solana · Web3**
 
 [![GitHub](https://img.shields.io/badge/GitHub-kevinme425-161b22?style=for-the-badge&logo=github)](https://github.com/kevinme425)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
