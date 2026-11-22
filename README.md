@@ -54,6 +54,10 @@ Currently focused on **Rust and Solana development**, while exploring smart cont
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kevinme425&bg_color=0D1117&color=C9D1D9&line=9F7AEA&point=00C9B7&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
+<p align="center">
+  <img src="https://img.shields.io/badge/%2B-9F7AEA?style=for-the-badge&labelColor=0D1117" alt="Purple plus sign" />
+</p>
+
 </div>
 
 ## ⚙️ Blockchain Stack
