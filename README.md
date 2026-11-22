@@ -13,6 +13,12 @@
 
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=9F7AEA&center=true&vCenter=true&width=650&lines=%24+whoami;Blockchain+Developer;Rust+%7C+Solana+%7C+Move+%7C+Web3;Building+on-chain+systems+with+purpose.)](https://git.io/typing-svg)
+
+</div>
+
 ---
 
 ## 👨‍💻 About
@@ -26,6 +32,25 @@ Currently focused on **Rust and Solana development**, while exploring smart cont
 **Exploring:** Move · Sui · Solidity · DeFi · Blockchain Security
 
 > Build useful systems. Keep the architecture clear. Engineer for security.
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/kevinme425/sui-payment-kit">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinme425&repo=sui-payment-kit&theme=github_dark&hide_border=true&title_color=9F7AEA&icon_color=9F7AEA" />
+</a>
+<a href="https://github.com/kevinme425/ECOSORT-AI-">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinme425&repo=ECOSORT-AI-&theme=github_dark&hide_border=true&title_color=9F7AEA&icon_color=9F7AEA" />
+</a>
+<a href="https://github.com/kevinme425/on-chain-Msgboard">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinme425&repo=on-chain-Msgboard&theme=github_dark&hide_border=true&title_color=9F7AEA&icon_color=9F7AEA" />
+</a>
+<a href="https://github.com/kevinme425/Solana-Rust-Bootcamp-EN-">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinme425&repo=Solana-Rust-Bootcamp-EN-&theme=github_dark&hide_border=true&title_color=9F7AEA&icon_color=9F7AEA" />
+</a>
+
+</div>
 
 ## 📊 GitHub at a Glance
 
@@ -59,6 +84,24 @@ Currently focused on **Rust and Solana development**, while exploring smart cont
     <img src="https://img.shields.io/badge/%2B-Explore%20my%20repositories-9F7AEA?style=for-the-badge&labelColor=0D1117" alt="Explore my repositories" />
   </a>
 </p>
+
+</div>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+![Contribution snake](https://raw.githubusercontent.com/kevinme425/kevinme425/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+## 📈 Developer Metrics
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/kevinme425?style=for-the-badge&logo=github&label=Followers&color=9F7AEA&labelColor=0D1117)
+![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkevinme425&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=9F7AEA&labelColor=0D1117)
+![GitHub stars](https://img.shields.io/github/stars/kevinme425?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=9F7AEA&labelColor=0D1117)
 
 </div>
 
@@ -102,6 +145,20 @@ Currently focused on **Rust and Solana development**, while exploring smart cont
 - Developing on-chain programs and working with account models.
 - Learning program security, transaction flows, PDAs, and CPIs.
 - Exploring how decentralized systems solve practical problems.
+
+## 🧭 Development Roadmap
+
+<div align="center">
+
+| Focus | Direction |
+|:--|:--|
+| **Rust** | Systems programming and Solana development |
+| **Solana** | On-chain programs, accounts, PDAs and CPIs |
+| **Anchor** | Framework patterns and program development |
+| **Move / Sui** | Smart contract design and object-based systems |
+| **Security** | Secure transaction flows and smart contract practices |
+
+</div>
 
 ## 🤝 Connect
 
